@@ -2,6 +2,8 @@
 
 A collection of code snippets to help with your final project!
 
+*Note: Some datasets in WPRDC have different names for the various neighborhoods. These snippets use the dataset from the "Data-Visualization" lab.*
+
 ### Installation
 ---
 1. Either clone this project or download it as a ZIP
