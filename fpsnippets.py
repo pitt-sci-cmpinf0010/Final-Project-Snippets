@@ -57,10 +57,10 @@ def census_to_neighborhoods(census_tract):
     """Converts a census tract number to a list of Pittsburgh neighborhoods.
 
     Args:
-        census_tract (int): The Census tract of interest. 
+        census_tract (int): The Census tract of interest.
 
     Returns:
-        list[str]: A list of Pittsburgh neighborhood names that 
+        list[str]: A list of Pittsburgh neighborhood names that
     """
     # Census to ZIP data
     census_data = pandas.read_csv("./ZIP_TRACT_032020.csv")
